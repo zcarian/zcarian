@@ -12,4 +12,6 @@ and turning ideas into functional and beautiful web applications.
 
 ### You can reach me here : **mar.jed.00@gmail.com**
 
+![Codewars](https://www.codewars.com/users/zcarian/badges/large)
+
 <img src="https://i.kym-cdn.com/entries/icons/original/000/028/021/work.jpg" style="width:400px">
