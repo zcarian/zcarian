@@ -1,17 +1,57 @@
-<h1 align="center"> Hello there, I'm Marcin :tada: </h1>
+<h1 align="center">Hey, I’m Marcin 👋</h1>
 
-I'm from Poland and I am aspiring Web Developer. <br>
-I am passionate about solving everyday problems with code <br>
-and turning ideas into functional and beautiful web applications.
+<p align="center">
+  Based in Berlin • building AI + web stuff • fueled by curiosity
+</p>
 
-### Right now I'm learning 
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-- [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
-- [Python](https://www.python.org/doc/essays/blurb/)
+---
 
-### You can reach me here : **mar.jed.00@gmail.com**
+## A bit about me
 
-![Codewars](https://www.codewars.com/users/zcarian/badges/large)
+I’m human person from Poland, living in Berlin, and I like building things that are actually useful in real life.
 
-<img src="https://i.kym-cdn.com/entries/icons/original/000/028/021/work.jpg" style="width:400px">
+I enjoy the whole process:
+**idea → messy prototype → "wait, this works" → better version**.
+
+---
+
+## What I’m into right now
+
+- Applied AI at IU Berlin
+- AI assistants and automation workflows
+- Full-stack apps with TypeScript/Next.js
+- Shipping projects instead of just collecting tutorial tabs
+
+---
+
+## Stuff I built
+
+- **OpenClaw Assistant**
+  Tool-calling assistant with Telegram access for quick tasks and updates.
+
+- **Tourism Agent**
+  Local Python pipeline that reads documents and extracts tourism projections.
+
+- **Subscription Manager**
+  Next.js app with a smart unsubscribe flow (powered by OpenAI API).
+
+- **Appointment Scanner**
+  Automation tool for checking appointment availability, so humans don’t have to refresh pages forever.
+
+---
+
+## Outside coding
+
+- Helping **[bbyaga](https://www.bbyaga.com/)** (brand ops + events)
+- Organizing events
+- Doing math for fun
+- Learning about quantum computing
+
+---
+
+## Links
+
+- 📄 CV: [MarcinCV.md](./MarcinCV.md)
+- 🧠 GitHub: [zcarian](https://github.com/zcarian)
+- 🔗 LinkedIn: [Marcin Jędrzejczak](https://de.linkedin.com/in/marcin-j%C4%99drzejczak-33b13726b/en)
+- 📫 Email: [mar.jed.00@gmail.com](mailto:mar.jed.00@gmail.com)
