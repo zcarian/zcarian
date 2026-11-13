@@ -18,9 +18,10 @@ Applied AI student at IU Berlin with practical experience in AI and full-stack d
 
 ## Technical Skills
 
-- **Languages:** Python, JavaScript, TypeScript, HTML, CSS
+- **Languages:** Python, SQL, JavaScript, TypeScript, HTML, CSS
   - **Libraries (Python):** httpx, beautifulsoup4, huggingface_hub, langchain, numpy, pandas
   - **Libraries (JavaScript/TypeScript):** next-auth, mongodb, mongoose, axios, swr, googleapis, puppeteer, material ui
+  - **SQL:** mySQL, PostgreSQL, SQLite
 - **Frameworks/Web:** Next.js, React, REST APIs
 - **AI/Automation:** LLM workflows, prompt engineering, AI-assisted coding, OpenAI API, AWS Bedrock, Ollama
 - **Cloud/Infra:** AWS (Amplify, S3, EC2, Lambda), Cloudflare, DigitalOcean
