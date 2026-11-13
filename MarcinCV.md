@@ -51,7 +51,7 @@ Applied AI student at IU Berlin with practical experience in AI and full-stack d
 - Developed an appointment monitoring project with JavaScript/HTML.
 - Reduced manual effort by automating repetitive availability checks.
 
-### Brand Website (Client Project)
+### Brand Website - BBYAGA (Previous Implementation)
 **Website:** https://www.bbyaga.com/
 - Built and delivered a website for a small business fashion brand using TypeScript.
 - Implemented responsive layout and user-focused structure.
