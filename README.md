@@ -47,6 +47,7 @@ I enjoy the whole process:
 - Doing math for fun
 - Learning about quantum computing
 - Getting some adrenaline thorugh skydiving, skiing or acrobatics
+- Playing violin, piano and drums
 
 ---
 
