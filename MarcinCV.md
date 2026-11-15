@@ -6,7 +6,7 @@
 
 ## Profile
 
-Applied AI student at IU Berlin with practical experience in AI and full-stack development. Built automation and research tools in Python and web applications in TypeScript/Next.js. Comfortable with startup-style execution, high ownership, and fast adaptation to changing priorities.
+Applied AI student at IU Berlin with practical experience in AI and full-stack development. Built automation and research tools in Python and web applications in TypeScript/Next.js. 
 
 ## Education
 
