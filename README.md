@@ -46,6 +46,7 @@ I enjoy the whole process:
 - Organizing events
 - Doing math for fun
 - Learning about quantum computing
+- Getting some adrenaline thorugh skydiving, skiing or acrobatics
 
 ---
 
